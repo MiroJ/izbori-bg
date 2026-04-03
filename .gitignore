@@ -5,6 +5,7 @@
 
 # MkDocs build output
 _site/
+mkdocs_docs/
 
 # User-specific files
 *.rsuser
