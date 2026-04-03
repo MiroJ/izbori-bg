@@ -2,6 +2,9 @@ site_name: Помощник за Изборите на 19 април 2026 г.
 docs_dir: mkdocs_docs
 site_dir: _site
 
+hooks:
+  - hooks.py
+
 nav:
   - Начало: README.md
   - Предизборен ден (18 април): "Предизборен ден.md"
