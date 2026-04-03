@@ -12,6 +12,9 @@ nav:
   - Закриване на изборния ден: "Закриване на изборния ден.md"
   - Предаване на книжата и материалите на РИК: "Предаване на книжата и материалите на РИК.md"
 
+extra_css:
+  - extra.css
+
 markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true

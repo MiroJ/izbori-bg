@@ -34,6 +34,7 @@ jobs:
         run: |
           mkdir -p mkdocs_docs
           cp *.md mkdocs_docs/
+          cp extra.css mkdocs_docs/
 
       - name: Build site
         run: mkdocs build

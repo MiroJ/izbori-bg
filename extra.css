@@ -1,0 +1,7 @@
+/* Ensure <ol start="N"> renders starting at N.
+   Material theme resets the list-item counter on all <ol> elements,
+   which overrides the HTML start attribute set by Python-Markdown.
+   attr() with integer type is supported in Chrome 130+, Firefox 131+, Safari 18+. */
+.md-typeset ol[start] {
+    counter-reset: list-item calc(attr(start integer, 1) - 1);
+}
