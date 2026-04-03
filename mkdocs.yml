@@ -14,4 +14,19 @@ theme:
   language: bg
   palette:
     scheme: default
-    primary: blue
+    primary: teal
+palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: teal
+    accent: deep orange
+    toggle:
+      icon: material/brightness-7
+      name: Превключи към тъмен режим
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: teal
+    accent: deep orange
+    toggle:
+      icon: material/brightness-4
+      name: Превключи към светъл режим
