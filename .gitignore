@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# MkDocs build output
+_site/
+
 # User-specific files
 *.rsuser
 *.suo
