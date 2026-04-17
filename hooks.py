@@ -5,7 +5,7 @@ FOOTER = """
 
 - [Изборен Кодекс](https://dela.bg/Laws/%D0%98%D0%9A)
 - [Документи на ЦИК](https://www.cik.bg/bg/documents/)
-- [Проверка на протоколи в Excel](https://github.com/MiroJ/izbori-bg/blob/master/docs/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20-%20%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0.xlsx)
+- [Проверка на протоколи в Excel](https://github.com/MiroJ/izbori-bg/raw/master/docs/Протокол%20-%20Проверка.xlsx?download=1)
 """
 
 
